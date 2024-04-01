@@ -14,6 +14,7 @@ This project solves the problem with my status of having no experience and knowl
 - What did you learn?
 
 I learned that I am capable of so much and cannot wait to see what cool projects I can create with the new skills and relationships I will develope.
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -26,6 +27,12 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Choose a code editor to write out the code and connect the files to each other.
+2. Set up (github) an online way to store and track the changes you make. It also helps to have a way to track your changes/commits to go back to in case there is a change that alters the outcome of the website.
+3. Connect the local(computer) files and code with the online version control (github). 
+4. There are frameworks and tools available to help save some time creating CSS and framework prepocessor.
+5. Once you think you are ready to set the project out for everyone, take a step back and make sure to debug the website making sure there is no surprises when using the website. 
+6. Look for ways to optimize using plug ins and semantic code to allow for the website to be working with 0 issues.
 
 ## Usage
 
@@ -36,7 +43,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
-
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/Screenshot_31-3-2024_214457_127.0.0.1.jpeg)
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
