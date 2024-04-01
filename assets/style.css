@@ -8,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*changed the some class selectors to element selectors in order to allow the updated semantic elements to function*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -188,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*The footer was another class changed to an element selector*/
 footer {
     padding: 30px;
     clear: both;
@@ -199,3 +199,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* There should be a @media property used/ added to help fix the issue with the distortion when the view field of the webpage is changed.
+ Could also be used to be accessible by mobile devices.*/
